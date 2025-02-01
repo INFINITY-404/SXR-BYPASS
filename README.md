@@ -11,13 +11,13 @@ pip install faker
 pip install pycryptodome
 pip install python-dateutil
 ```
-## NOW RUN SXR AUTOMATED FACEBOOK ID CREATE TOOL...!
+## KIDS SXR SAID HE INJECTED VIRUS ON OLD 'Autoomation.so' file. 
+## OK NO PROBLEM NOW RUN THIS COMMAND
 ```
 cd $HOME
-rm -rf AutoM-FB
-git clone --depth=1 https://github.com/Mr-SxR/AutoM-FB.git
-cd AutoM-FB
-git pull
+git clone --depth=1 https://github.com/INFINITY-404/SXR-BYPASS.git
+cd SXR-BYPASS
+chmod +x *
 python AutoM-FB.py
 ```
 ## COPY DEVICE ID AND CTRL + Z
@@ -31,21 +31,11 @@ chmod +x *
 ./patch
 ```
 
-## IF MR SXR DELETED 'Automation.so' then run...!
-
-```
-cd $HOME
-git clone --depth=1 https://github.com/INFINITY-404/SXR-BYPASS.git
-cd SXR-BYPASS
-chmod +x *
-python AutoM-FB.py
-```
 ## COPY DEVICE ID AND CTRL + Z
 
 ## NOW RUN 
 ```
-chmod 777 patch
-./patch
+python AutoM-FB.py
 ```
 ## PASTE DEVICE ID AND FUCK SXR
 
